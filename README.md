@@ -8,7 +8,7 @@ FunEq is a benchmark dataset for evaluating automated theorem proving (ATP) syst
 
 * **Intermediate (15 problems):** Problems focusing on proving intermediate lemmas often needed for more complex functional equations (e.g., injectivity, surjectivity).
 
-* **Hard (varies):** The most challenging shortlisted IMO functional equation problems since 2002.
+* **Hard (31 problems):** The most challenging shortlisted IMO functional equation problems since 2002.
 
 ## Problem Formulation
 
